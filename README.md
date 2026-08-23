@@ -1,2 +1,3 @@
-# fake-rest-api-mock
-Zero-dependency mock REST API server with standard CRUD endpoints.
+# Fake REST API Mock
+
+Lightweight local REST endpoint server for frontend prototyping.
